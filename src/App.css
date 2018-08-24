@@ -1,0 +1,12 @@
+.completed{
+  color: #85c737;
+  border-color: #85c737;
+  text-decoration: line-through !important;
+}
+.list-group-item{
+  font-weight: 600;
+
+}
+.text-center{
+  margin-top: 35px;
+}
